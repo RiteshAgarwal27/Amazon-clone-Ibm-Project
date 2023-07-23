@@ -1,1 +1,2 @@
-# Amazon-clone-Ibm-project
+# amazon-clone
+amazon clone
